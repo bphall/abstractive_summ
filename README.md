@@ -13,4 +13,5 @@ To use state-of-the-art transformers in novel ways, and quite possibly on novels
 ## Current basic output: <a name='data'></a>
 Summarization of the entirety of War and Peace with zero-shot chunking summarization. 
 ### ![pic1](assets/wp1.png)
+The following summary corresponds to the first approximately 5,120 words of War and Peace, or about 1/100 of the novel. This could be adjusted, and fine-tuned upon certain 'themes' or embeddings produced from a bit of manual supervision and active learning. 
 ### ![pic2](assets/wp2.png)
